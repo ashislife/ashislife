@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m a 3rd year Artificial Intelligence and Machine Learning (AIML) student passionate about solving real-world problems using technology. I enjoy building machine learning models, exploring computer vision, and participating in open source and hackathons.<br><br>I'm always eager to learn new things, collaborate on exciting projects, and grow as an AI/ML developer. Whether it's working on Python-based solutions, exploring deep learning, or experimenting with APIs and deployment — I'm up for the challenge!
+Hello! I’m a 4th year Artificial Intelligence and Machine Learning (AIML) student passionate about solving real-world problems using technology. I enjoy building machine learning models, exploring computer vision, and participating in open source and hackathons.<br><br>I'm always eager to learn new things, collaborate on exciting projects, and grow as an AI/ML developer. Whether it's working on Python-based solutions, exploring deep learning, or experimenting with APIs and deployment — I'm up for the challenge!
 
 
 ## 🌐 Socials:
